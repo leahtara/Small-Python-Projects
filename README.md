@@ -6,6 +6,5 @@ Alernatively, use it online: https://vscode.dev/
 
 
 ## Inventory management system with Database and GUI
-This project was done using Visual Studio code.
-Download it here: https://code.visualstudio.com/download
-Alernatively, use it online: https://vscode.dev/
+Code for an inventory management system was [already avaiable online](https://www.sourcecodester.com/python/16703/stock-inventory-system-python-free-source-code.html) in the form of a menu driven program instead of using GUI.
+
