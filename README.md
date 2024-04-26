@@ -13,6 +13,7 @@ I followed [this](https://medium.com/@fareedkhandev/modern-gui-using-tkinter-12d
 ## 1. Control Statements in python
 ### [1.1](https://github.com/leahtara/Small-Python-Projects/blob/main/1.1.py) Factorial
 To find the factorial of a number using a while loop
-### 1.2 
+### [1.2](https://github.com/leahtara/Small-Python-Projects/blob/main/1.2.py) Prime number
+To check whether a number is prime or composite
 
 
