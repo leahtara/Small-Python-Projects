@@ -9,11 +9,11 @@ Code for an inventory management system was [already avaiable online](https://ww
 I followed [this](https://medium.com/@fareedkhandev/modern-gui-using-tkinter-12da0b983e22) article to implement customtkinter.
 
 ## Control Statements in python
-### [1](https://github.com/leahtara/Small-Python-Projects/blob/main/1.1.py) Factorial
+### 1 [Factorial](https://github.com/leahtara/Small-Python-Projects/blob/main/1.1.py)
 To find the factorial of a number using a while loop
-### [2](https://github.com/leahtara/Small-Python-Projects/blob/main/1.2.py) Prime number
+### 2 [Prime number](https://github.com/leahtara/Small-Python-Projects/blob/main/1.2.py)
 To check whether a number is prime or composite
-### [3](https://github.com/leahtara/Small-Python-Projects/blob/main/1.3.py) Armstrong number
+### 3 [Armstrong number](https://github.com/leahtara/Small-Python-Projects/blob/main/1.3.py)
 To check whether a number is an armstrong number or not
 
 
