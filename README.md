@@ -15,6 +15,6 @@ To find the factorial of a number using a while loop
 To check whether a number is prime or composite
 ### 3 [Armstrong number](https://github.com/leahtara/Small-Python-Projects/blob/main/1.3.py)
 To check whether a number is an armstrong number or not
-### 3 [Palindrome number](https://github.com/leahtara/Small-Python-Projects/blob/main/1.4.py)
+### 4 [Palindrome number](https://github.com/leahtara/Small-Python-Projects/blob/main/1.4.py)
 To check whether given number is palindrome or not
 
