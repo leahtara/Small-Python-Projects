@@ -1,4 +1,4 @@
-# Small-Python-Projects for learning
+# Small-Python-Programs for learning
 Just some small python projects that I have created in the process of learning.
 These project were created using [Visual Studio code](https://code.visualstudio.com/). You can [download and install](https://code.visualstudio.com/download) it, or [use it online](https://vscode.dev/).
 You can follow along these small programs to learn python.
